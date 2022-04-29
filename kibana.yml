@@ -38,4 +38,4 @@ spec:
               cpu: 100m
           env:
             - name: ELASTICSEARCH_URL
-              value: http://elastic-search:9200
+              value: http://elasticsearch:9200
